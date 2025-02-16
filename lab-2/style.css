@@ -1,0 +1,50 @@
+:root {
+    --bg-color: #abb;
+    --bg-color2: #888;
+    --txt-color: #333;
+    --button-bg-color: #cee;
+    --button-txt-color: #333;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--txt-color);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15pt;
+}
+
+div {
+    background-color: var(--bg-color2);
+    border-radius: 1em;
+    padding: 1em;
+    margin: 1em;
+}
+
+h1, h2 {
+    margin: 10px;
+}
+
+button.toggle {
+    position: fixed;
+    bottom: 0.5em;
+    right: 0.5em;
+    background-color: var(--button-bg-color);
+    color: var(--button-txt-color);
+    padding: 0.5em;
+    border-radius: 0.5em;
+    border: solid 1px var(--button-txt-color);
+    cursor: pointer;
+}
+
+button.toggle:hover {
+    background-color: var(--button-txt-color);
+    color: white;
+}
+
+:root[theme='dark'] {
+    --bg-color: #333;
+    --bg-color2: #555;
+    --txt-color: #eee;
+    --button-bg-color: #444;
+    --button-txt-color: #fff;
+}

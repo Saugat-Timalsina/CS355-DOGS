@@ -1,0 +1,28 @@
+body {
+    background-color: #345;
+    color: #eee;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12pt;
+    text-align: center;
+}
+
+#carousel {
+    background-color: #eee;
+    color: #333;
+    border-radius: 1em;
+    width: 500px;
+    padding: 1em;
+    margin: auto;
+    text-align: center;
+}
+
+.card {
+    width: 100%;
+    padding: 1em;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
