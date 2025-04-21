@@ -1,0 +1,21 @@
+{"status":"on","_id":99}
+{"name":"Alice","age":55,"city":"NewJersey","email":"alice@example.com","_id":"8iKaYxlOUHp5wOCB"}
+{"Name":"SAFAL","Age":21,"_id":"8yMpF0eL6UheHY5A"}
+{"name":"Bob","age":30,"city":"Los Angeles","email":"bob@example.com","_id":"AmZOOPjhxDA96skW"}
+{"name":"Hannah","age":32,"city":"Boston","email":"hannah@example.com","_id":"B7MMgzpc635GIM6h"}
+{"name":"David","age":28,"city":"Houston","email":"david@example.com","_id":"BjeOJeZemLa0vhkm"}
+{"data":{"name":"Alice","age":27,"city":"New York","email":"alice@example.com","_id":"8iKaYxlOUHp5wOCB"},"_id":"FwgH9QPJfTRB4Auc"}
+{"name":"safal pokharel","age":21,"hobby":"everything","_id":"JP4r6YexrcSUWY7X"}
+{"name":"Charlie","age":35,"city":"Chicago","email":"charlie@example.com","_id":"L7t3XfJ0FRKFmkyR"}
+{"name":"Eva","age":22,"city":"San Francisco","email":"eva@example.com","_id":"MhS41BJOgs5Q2uy5"}
+{"data":"{\"name\": \"Alice\",\n \"age\": 25,\n \"Hobby\": \"Everything\"\n}","_id":"Q1oSN07u1f53uBl5"}
+{"name":"Alice","age":75,"city":"New York","email":"alice@example.com","_id":"VqcD9lXktN7hBAfx"}
+{"name":"Grace","age":27,"city":"Seattle","email":"grace@example.com","_id":"YwhROAxy3ROpamSG"}
+{"Name":"SACHIN ","Age":23,"_id":"ZnUbEG0WExbwPoiY"}
+{"name":"lice","age":85,"city":"New York","email":"alice@example.com","_id":"b7b48NCOelrbyR71"}
+{"name":"Julia","age":26,"city":"Austin","email":"julia@example.com","_id":"iSwDhlIp2XoA05oG"}
+{"name":"Frank","age":40,"city":"Miami","email":"frank@example.com","_id":"lvUhz0ddYRFXsN4H"}
+{"age":40,"_id":"sjCPmLLnddslkfbF"}
+{"name":"Isaac","age":29,"city":"Denver","email":"isaac@example.com","_id":"t3VJSkd8UXwoGGzB"}
+{"gender":"man","age":40,"_id":"tAXdW7E5Q8FvLiGk"}
+{"name":"lice","age":5,"city":"NewJersey","email":"alice@example.com","_id":"8iKaYxlOUHp5wOCB"}

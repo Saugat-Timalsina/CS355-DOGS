@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#468">
+    <link rel="apple-touch-icon" href="/icons/icon-512x512.png">
+    <link rel="manifest" href="manifest.json">
+    <title>Hello World PWA</title>
+    <style>
+        body {
+            background-color: skyblue;
+            color: black;
+            font-weight: bold;
+            font-size: 30pt;
+            font-family: 'Tahoma';
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+    </style>
+    <script>navigator.serviceWorker.register('sw.js');</script>
+</head>
+<body>
+    <div>
+        Sorry You are offline!
+    </div>
+</body>
+</html>
